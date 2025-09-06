@@ -1,23 +1,20 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+colors: colors-e
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
-      KONARK PROCESS INSTRUMENTS
-      Engineering Reliable Panels, Burners & Process Systems
+      KONARK PROCESS INSTRUMENTS Engineering Reliable Panels, Burners & Process
+      Systems
     subtitle: >-
-      Delivering efficient, safe, and custom-built industrial solutions for diverse industries.
+      At KONARK PROCESS INSTRUMENT, we specialize in delivering advanced
+      industrial solutions, including ladle preheaters, tundish heating systems,
+      burner management systems, IoT-based data acquisition systems, and
+      continuous furnace automation. Our projects are designed to enhance
+      efficiency, safety, and reliability across diverse industrial operations.
     styles:
       self:
         height: auto
@@ -36,6 +33,19 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: >+
+      <div style="text-align: center">
+
+      Over the years, KONARK PROCESS has partnered with leading organizations
+      such as Bharat Forge, Arvind Mills, Vesuvius India Limited, RHI India
+      Limited, Reliance Industries, Reliance Naval and Infrastructure Limited,
+      GRE Infra, Kalpataru, Intas Pharma, Zydus Hospira, Amneal Pharmaceuticals,
+      Cadila, and many others, delivering reliable and innovative industrial
+      solutions.</div>
+
+
+      <div style="text-align: center"></div>
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -61,7 +71,7 @@ sections:
           - pb-24
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
     subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
@@ -151,4 +161,11 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---

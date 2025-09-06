@@ -1,7 +1,7 @@
 {
     "type": "ThemeStyle",
-    "light": "#ffffff",
-    "onLight": "#050806",
+    "light": "#ee5858",
+    "onLight": "#16211a",
     "dark": "#000000",
     "onDark": "#FBFFF2",
     "primary": "#0804F6",
@@ -10,7 +10,7 @@
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
-    "fontBody": "\"DM Mono\", monospace",
+    "fontBody": "\"Azeret Mono\", monospace",
     "headingWeight": "400",
     "headingCase": "uppercase"
 }
