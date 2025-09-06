@@ -17,10 +17,11 @@ sections:
       KONARK PROCESS INSTRUMENTS Engineering Reliable Panels, Burners & Process
       Systems
     subtitle: >-
-      We specialize in designing and manufacturing high-quality control panels,
-      industrial burners, and customized process systems that enhance
-      efficiency, ensure safety, and support industries in achieving seamless
-      operations.
+      At KONARK PROCESS INSTRUMENT, we specialize in delivering advanced
+      industrial solutions, including ladle preheaters, tundish heating systems,
+      burner management systems, IoT-based data acquisition systems, and
+      continuous furnace automation. Our projects are designed to enhance
+      efficiency, safety, and reliability across diverse industrial operations
     styles:
       self:
         height: auto
