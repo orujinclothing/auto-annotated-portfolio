@@ -14,10 +14,22 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # **KONARK PROCESS** is a trusted name in delivering advanced industrial
+      engineering solutions. With expertise in ladle preheaters, tundish heating
+      systems, burner management systems, IoT-based data acquisition, and
+      continuous furnace automation, we help industries improve safety,
+      efficiency, and performance.
+
+
+      At the core of our work is **Mr. Nilesh Pande**, the driving force behind
+      the company’s vision and growth. An alumnus of *Sheth C.N. Vidyalaya* and
+      a graduate in Engineering from *Dharmsinh Desai Institute of Technology
+      (DDIT)*, he brings deep technical knowledge and decades of experience in
+      industrial process solutions. Under his leadership, KONARK PROCESS has
+      partnered with some of India’s leading companies across steel,
+      infrastructure, textiles, energy, and pharmaceuticals.
+
+
 
     media:
       type: ImageBlock
