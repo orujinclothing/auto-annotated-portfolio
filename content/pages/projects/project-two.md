@@ -10,7 +10,7 @@ description: >-
   ensured consistent performance under demanding industrial conditions.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/industrial-gas-burner-500x500.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
