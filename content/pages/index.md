@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-f
     backgroundSize: full
     title: >-
       KONARK PROCESS INSTRUMENTS Engineering Reliable Panels, Burners & Process
