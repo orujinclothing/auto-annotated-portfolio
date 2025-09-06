@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       KONARK PROCESS INSTRUMENTS Engineering Reliable Panels, Burners & Process
       Systems
