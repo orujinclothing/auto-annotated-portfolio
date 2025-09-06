@@ -21,7 +21,7 @@ sections:
       industrial solutions, including ladle preheaters, tundish heating systems,
       burner management systems, IoT-based data acquisition systems, and
       continuous furnace automation. Our projects are designed to enhance
-      efficiency, safety, and reliability across diverse industrial operations
+      efficiency, safety, and reliability across diverse industrial operations.
     styles:
       self:
         height: auto
