@@ -2,13 +2,6 @@
 type: PageLayout
 title: Home
 colors: colors-e
-backgroundImage:
-  type: BackgroundImage
-  url: /images/Untitled.jpeg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
