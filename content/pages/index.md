@@ -164,7 +164,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
