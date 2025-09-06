@@ -163,7 +163,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
