@@ -5,8 +5,9 @@ colors: colors-a
 date: '2021-12-20'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but
+  Designed and installed a high-efficiency industrial burner system tailored for
+  process heating. The solution optimized fuel usage, reduced emissions, and
+  ensured consistent performance under demanding industrial conditions.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
