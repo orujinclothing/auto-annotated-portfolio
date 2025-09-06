@@ -13,8 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # **KONARK PROCESS** is a trusted name in delivering advanced industrial
+    text: >
+      ## **KONARK PROCESS** is a trusted name in delivering advanced industrial
       engineering solutions. With expertise in ladle preheaters, tundish heating
       systems, burner management systems, IoT-based data acquisition, and
       continuous furnace automation, we help industries improve safety,
@@ -28,9 +28,6 @@ sections:
       industrial process solutions. Under his leadership, KONARK PROCESS has
       partnered with some of India’s leading companies across steel,
       infrastructure, textiles, energy, and pharmaceuticals.
-
-
-
     media:
       type: ImageBlock
       url: /images/about.jpg
