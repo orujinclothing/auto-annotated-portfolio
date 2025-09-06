@@ -40,6 +40,20 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: >+
+      <div style="text-align: center">**
+
+      **Over the years, KONARK PROCESS has partnered with leading organizations
+      such as Bharat Forge, Arvind Mills, Vesuvius India Limited, RHI India
+      Limited, Reliance Industries, Reliance Naval and Infrastructure Limited,
+      GRE Infra, Kalpataru, Intas Pharma, Zydus Hospira, Amneal Pharmaceuticals,
+      Cadila, and many others, delivering reliable and innovative industrial
+      solutions.
+
+
+
+      </div>
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
